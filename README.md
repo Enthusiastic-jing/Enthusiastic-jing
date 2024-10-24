@@ -1,3 +1,6 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Enthusiastic-jing
+)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @Enthusiastic-jing
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
