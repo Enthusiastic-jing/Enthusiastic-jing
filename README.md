@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Enthusiastic-jing&theme=highcontrast
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Enthusiastic-jing&theme=synthwave
 )](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Enthusiastic-jing
